@@ -1,1 +1,1 @@
-# jenkins-workshop
+# Jenkins Workshop
